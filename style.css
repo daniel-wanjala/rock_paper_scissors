@@ -1,0 +1,27 @@
+* {
+	margin: 0%;
+	padding: 0%;
+	box-sizing: border-box;
+	background-color: #111827;
+	font-family: Inter, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 20px;
+	color: #d1d5db;
+	padding: 25px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 2em;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+}
